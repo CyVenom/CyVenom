@@ -6,12 +6,12 @@
 
 Hi, I'm CyVenom! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. 
 
-- 🔭 I’m currently working on [Your Project](https://github.com/yourproject)
-- 🌱 I’m constantly learning and improving my skills in [Your Skills or Technologies]
+- 🔭 I’m currently working on [Your Project](https://github.com/yourproject) E-Learning Website Coded in PHP in Developement Phase
+- 🌱 I’m constantly learning and improving my skills in [Python Java Bash C++ Linux Go ]
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything related to [Your Expertise]
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
-- ⚡ Fun fact: [A fun fact about you]
+- 💬 Ask me about anything related to [Cybersecurity]
+- 📫 How to reach me: [Your Email](mailto:raojerryjeremiah436@gmail.com)
+- ⚡ Fun fact: [I will laugh a lot ]
 
 ## My GitHub Stats
 
