@@ -23,13 +23,11 @@ Hi, I'm CyVenom! I'm a passionate developer with a love for creating innovative 
 
 ## Featured Projects
 
-### [Project 1 Name](https://github.com/yourusername/project1)
-![Project 1 Screenshot](https://your-image-url.com/project1.png)
-Description of Project 1 in a few lines.
+### [Project 1 Name](https://github.com/CyVenom/E_Learning_Platform)
+![Project 1 Screenshot](![image](https://github.com/user-attachments/assets/c8695d14-d668-480a-9452-f82f7c42b195)
+)
+This E-Learning Platform is a web-based application developed in PHP with a MySQL database
 
-### [Project 2 Name](https://github.com/yourusername/project2)
-![Project 2 Screenshot](https://your-image-url.com/project2.png)
-Description of Project 2 in a few lines.
 
 ## Connect with Me
 
