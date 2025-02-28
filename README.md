@@ -41,7 +41,7 @@ Description of Project 2 in a few lines.
 
 If you like my work, consider buying me a coffee! Your support helps me keep coding and creating awesome projects.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee)]()
 
 ---
 
