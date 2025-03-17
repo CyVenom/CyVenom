@@ -10,7 +10,7 @@ Hi, I'm CyVenom! I'm a passionate developer with a love for creating innovative 
 - 🌱 I’m constantly learning and improving my skills in [Python Java Bash C++ Linux Go ]
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything related to [Cybersecurity]
-- 📫 How to reach me: [Your Email](mailto:raojerryjeremiah436@gmail.com)
+- 📫 How to reach me: [My Email](mailto:raojerryjeremiah436@gmail.com)
 - ⚡ Fun fact: [I will laugh a lot ]
 
 ## My GitHub Stats
