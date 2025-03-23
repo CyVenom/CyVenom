@@ -32,8 +32,8 @@ This E-Learning Platform is a web-based application developed in PHP with a MySQ
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in//)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com//)
 [![Personal Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google)](https://yourwebsite.com)
 
 ## Support My Work
