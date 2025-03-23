@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page! 👋
 
-![GitHub Banner](https://raw.githubusercontent.com/CyVenom/CyVenom/banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/CyVenom/CyVenom/main/assets/banner.png)
 
 
 ## About Me
