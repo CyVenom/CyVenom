@@ -17,7 +17,7 @@ echo "Welcome to Cyber Venom's GitHub—Enter at your own risk! ☠️"
 echo "Hack the code. Automate the security. Stay ahead. ⚡"
 ```
 
-![GitHub Banner](https://raw.githubusercontent.com/CyVenom/CyVenom/main/assets/banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/CyVenom/CyVenom/main/assets/banner1.png)
 
 ---
 
