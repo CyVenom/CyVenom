@@ -1,6 +1,16 @@
-# 🚀 **Cyber Venom's GitHub** 🕶️  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm CyberVenom
 
-```
+<h3 align="center">Cybersecurity Student • Offensive Security Tool Developer • AI & AppSec Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyvenom&label=Profile%20Views&color=red&style=flat" alt="cyvenom" />
+</p>
+
+---
+
+# 🕶️ Cyber Venom
+
+```text
  ██╗   ██╗███████╗███╗   ██╗ ██████╗ ███╗   ███╗
  ██║   ██║██╔════╝████╗  ██║██╔═══██╗████╗ ████║
  ██║   ██║█████╗  ██╔██╗ ██║██║   ██║██╔████╔██║
@@ -9,58 +19,146 @@
   ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝
 ```
 
-💀 **Welcome to Cyber Venom's GitHub** 💀  
-_Hack, Automate, Dominate!_
+> **Hack. Automate. Secure. Repeat.**
 
-```bash
-echo "Welcome to Cyber Venom's GitHub—Enter at your own risk! ☠️"
-echo "Hack the code. Automate the security. Stay ahead. ⚡"
+Cybersecurity student focused on offensive security, automation, reconnaissance tooling, API security, and AI-driven security workflows.
+
+I enjoy building practical security tools that automate complex recon and vulnerability assessment tasks while continuously learning modern AppSec and AI integration techniques.
+
+---
+
+# 🚀 Current Focus
+
+* 🔍 Offensive Security Automation
+* 🌐 Web Application Security & API Testing
+* 🤖 AI + Cybersecurity Integrations
+* 🛡️ Vulnerability Assessment & Recon Tooling
+* ⚡ Secure Backend Development
+* 🧠 Learning LLMs, Prompt Engineering & Security Workflows
+
+---
+
+# 🛠️ Tech Stack & Tools
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,java,cpp,go,js,ts,php" />
+</p>
+
+### Security & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,postgres,mongodb,nodejs,react" />
+</p>
+
+### Cybersecurity Tools
+
+```text
+Burp Suite • Nmap • Nuclei • SQLMap • Wireshark
+Subfinder • HTTPX • Katana • OWASP Testing
+Kali Linux • Recon Automation • API Security
 ```
 
-![GitHub Banner](https://raw.githubusercontent.com/CyVenom/CyVenom/main/assets/banner1.png)
+---
+
+# 🔥 Featured Projects
+
+## 🛡️ Reflective_XSS
+
+Advanced reflected XSS detection framework built for web application security testing, payload analysis, and automated vulnerability discovery.
+
+🔗 [https://github.com/CyVenom/Reflective_XSS](https://github.com/CyVenom/Reflective_XSS)
 
 ---
 
-## 🛠️ **About Me**  
+## 🌐 Waybackurl
 
-Hi, I'm **Cyber Venom (CyVenom)**! I’m a passionate developer, cybersecurity enthusiast, and hacker. I love **automation, penetration testing, and building security tools**.  
+Reconnaissance automation tool designed for bug bounty hunters and penetration testers to uncover archived URLs, hidden endpoints, and web attack surfaces.
 
-- 🔥 **Currently working on**: [E-Learning Platform](https://github.com/CyVenom/E_Learning_Platform) (PHP-based, in development)  
-- 📖 **Tech Stack**: Python, Java, Bash, C++, Linux, Go  
-- 🎯 **Cybersecurity & Bug Bounty Hunter**  
-- 🤝 **Open to Collaboration** on **open-source security tools**  
-- 📩 **Reach me at**: [Email Me](mailto:raojerryjeremiah436@gmail.com)  
-- 😂 **Fun Fact**: I laugh a lot but can hack your system while doing so! 😆  
+🔗 [https://github.com/CyVenom/Waybackurl](https://github.com/CyVenom/Waybackurl)
 
 ---
 
-## 📊 **GitHub Stats**  
+## 🐍 VenomSec
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyvenom&label=Profile%20views&color=0e75b6&style=flat" alt="cyvenom" /> </p>
+Automated offensive security and vulnerability scanning framework integrating reconnaissance, scanning, and notification workflows.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyvenom" alt="cyvenom" /></a> </p>
+### Features
 
----
+* Subdomain Enumeration
+* Port Scanning
+* Vulnerability Detection
+* SQL Injection Testing
+* Telegram Notifications
+* Automated Logging
 
-## 🔥 **Featured Projects**  
-
-### [https://github.com/CyVenom/Reflective_XSS - Advanced reflected XSS detection framework built for web application security testing, payload analysis, and automated vulnerability discovery.]
-### [https://github.com/CyVenom/Waybackurl - Reconnaissance automation tool designed for bug bounty hunters and penetration testers to uncover historical URLs and hidden endpoints.]
-
----
-
-## 🌍 **Connect with Me**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINK_HERE)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_LINK_HERE)  
-[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google)](https://yourwebsite.com)  
+🔗 [https://github.com/CyVenom/VenomSec](https://github.com/CyVenom/VenomSec)
 
 ---
 
-## ☕ **Stats**  
+## 🧠 CyberRisk (FYP)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyvenom&" alt="cyvenom" /></p>
+AI-assisted vulnerability assessment and risk scoring platform focused on improving security analysis workflows.
+
+🔗 [https://github.com/CyVenom/CyberRisk-fyp2](https://github.com/CyVenom/CyberRisk-fyp2)
 
 ---
 
-### **Thank You for Visiting!** 😊
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyvenom&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyvenom&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyvenom&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyvenom&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p>
+  <a href="https://github.com/CyVenom">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jerry-jeremiah-rao/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:raojerryjeremiah436@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# ⚡ Philosophy
+
+```bash
+while(alive) {
+    learn();
+    build();
+    secure();
+    improve();
+}
+```
+
+---
+
+# ☕ Fun Fact
+
+I genuinely enjoy building offensive security tooling and automating recon workflows more than playing games.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile 👾</b>
+</p>
