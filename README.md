@@ -47,8 +47,6 @@ Hi, I'm **Cyber Venom (CyVenom)**! I’m a passionate developer, cybersecurity e
 ### [https://github.com/CyVenom/Reflective_XSS - Advanced reflected XSS detection framework built for web application security testing, payload analysis, and automated vulnerability discovery.]
 ### [https://github.com/CyVenom/Waybackurl - Reconnaissance automation tool designed for bug bounty hunters and penetration testers to uncover historical URLs and hidden endpoints.]
 
-![Project Screenshot](https://github.com/CyVenom/E_Learning_Platform/raw/main/assets/project-image.png)  
-
 ---
 
 ## 🌍 **Connect with Me**  
