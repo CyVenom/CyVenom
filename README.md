@@ -1,4 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm CyberVenom
+💀 **Welcome to Cyber Venom's GitHub** 💀  
+_Hack, Automate, Dominate!_
+
+```bash
+echo "Welcome to Cyber Venom's GitHub—Enter at your own risk! ☠️"
+echo "Hack the code. Automate the security. Stay ahead. ⚡"
+```
 
 <h3 align="center">Cybersecurity Student • Offensive Security Tool Developer • AI & AppSec Enthusiast</h3>
 
