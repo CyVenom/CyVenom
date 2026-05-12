@@ -21,6 +21,11 @@ echo "Hack the code. Automate the security. Stay ahead. ⚡"
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyvenom&label=Profile%20views&color=0e75b6&style=flat" alt="cyvenom" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyvenom" alt="cyvenom" /></a> </p>
+
+
 ## 🛠️ **About Me**  
 
 Hi, I'm **Cyber Venom (CyVenom)**! I’m a passionate developer, cybersecurity enthusiast, and hacker. I love **automation, penetration testing, and building security tools**.  
