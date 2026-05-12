@@ -2,6 +2,8 @@
 
 <h3 align="center">Cybersecurity Student • Offensive Security Tool Developer • AI & AppSec Enthusiast</h3>
 
+![GitHub Banner](https://raw.githubusercontent.com/CyVenom/CyVenom/main/assets/banner1.png)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyvenom&label=Profile%20Views&color=red&style=flat" alt="cyvenom" />
 </p>
