@@ -44,8 +44,8 @@ Hi, I'm **Cyber Venom (CyVenom)**! I’m a passionate developer, cybersecurity e
 
 ## 🔥 **Featured Projects**  
 
-### [E-Learning Platform](https://github.com/CyVenom/E_Learning_Platform)  
-A web-based **E-Learning Platform** built with PHP and MySQL.  
+### [https://github.com/CyVenom/Reflective_XSS - Advanced reflected XSS detection framework built for web application security testing, payload analysis, and automated vulnerability discovery.]
+### [https://github.com/CyVenom/Waybackurl - Reconnaissance automation tool designed for bug bounty hunters and penetration testers to uncover historical URLs and hidden endpoints.]
 
 ![Project Screenshot](https://github.com/CyVenom/E_Learning_Platform/raw/main/assets/project-image.png)  
 
@@ -59,19 +59,14 @@ A web-based **E-Learning Platform** built with PHP and MySQL.
 
 ---
 
-## ☕ **Support My Work**  
-
-If you like my work, consider buying me a coffee! Your support helps me keep coding and creating awesome projects.  
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/YOUR_USERNAME)  
-
----
-
+## ☕ **Stats**  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyvenom&show_icons=true&locale=en&layout=compact" alt="cyvenom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyvenom&show_icons=true&locale=en" alt="cyvenom" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyvenom&" alt="cyvenom" /></p>
+
+---
 
 ### **Thank You for Visiting!** 😊
