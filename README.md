@@ -59,10 +59,6 @@ Hi, I'm **Cyber Venom (CyVenom)**! I’m a passionate developer, cybersecurity e
 
 ## ☕ **Stats**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyvenom&show_icons=true&locale=en&layout=compact" alt="cyvenom" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyvenom&show_icons=true&locale=en" alt="cyvenom" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyvenom&" alt="cyvenom" /></p>
 
 ---
