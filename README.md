@@ -1,11 +1,3 @@
-💀 **Welcome to Cyber Venom's GitHub** 💀  
-_Hack, Automate, Dominate!_
-
-```bash
-echo "Welcome to Cyber Venom's GitHub—Enter at your own risk! ☠️"
-echo "Hack the code. Automate the security. Stay ahead. ⚡"
-```
-
 <h3 align="center">Cybersecurity Student • Offensive Security Tool Developer • AI & AppSec Enthusiast</h3>
 
 ![GitHub Banner](https://raw.githubusercontent.com/CyVenom/CyVenom/main/assets/banner1.png)
